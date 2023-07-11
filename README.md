@@ -13,7 +13,7 @@ Chatroom adalah aplikasi sederhana berbasis web yang memungkinkan pengguna untuk
 1. Clone repositori ini ke dalam direktori lokal Anda:
 
    ```
-   git clone <URL repositori>
+   git clone [<URL repositori>](https://github.com/FaisalArdhani/chat-app-simple.git)
    ```
 
 2. Buka file `index.html` pada browser web Anda.
